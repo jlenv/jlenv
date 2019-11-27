@@ -22,7 +22,7 @@ that your development environment matches production.
   dependency lives in one place—your app—so upgrades and rollbacks are
   atomic, even when you switch versions.
 
-**One thing well.** [jlenv]((https://github.com/jlenv/jlenv) is concerned solely with switching Julia
+**One thing well.** [jlenv](https://github.com/jlenv/jlenv) is concerned solely with switching Julia
   versions. It's simple and predictable. A rich plugin ecosystem lets
   you tailor it to suit your needs. Compile your own Julia versions, or
   use the [julia-build](https://github.com/jlenv/julia-build)
